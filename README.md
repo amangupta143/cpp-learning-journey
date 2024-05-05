@@ -17,7 +17,7 @@ In this repository, you'll find a collection of C++ programs covering topics. It
 
 Here are some of the programs included in this repository:
 
-1. **Coming Soon**: Coming Soon.
+1. **Coming Soon:** Coming Soon.
 
 Feel free to explore the code and learn from it!
 
@@ -31,3 +31,5 @@ To run any of the programs locally, follow these steps:
    git clone https://github.com/amangupta143/cpp-learning-journey
 
 ## Credits
+
+**W3Schools C++ Tutorial:** https://www.w3schools.com/cpp/
