@@ -1,5 +1,7 @@
 # My C++ learning journey
 
+<img width="30%" align="right" src="https://isocpp.org/assets/images/cpp_logo.png">
+
 Welcome to my C++ project repository! This repository is a collection of various C++ programs that I’ve written while exploring the language. Feel free to explore and use any code you find interesting.
 
 ## Table of Contents
